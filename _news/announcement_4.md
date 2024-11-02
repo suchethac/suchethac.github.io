@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Moved to Nagoya University as a postdoctoral researcher.
+Moved to Stanford University as a KIPAC Fellow.

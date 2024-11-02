@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. # the website title (if blank, full name will be used instead)
+title: Suchetha Cooray # the website title (if blank, full name will be used instead)
 first_name: Suchetha
 middle_name:
 last_name: Cooray
@@ -87,7 +87,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: suchethacooray # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0000-0002-9217-1696 # your ORCID ID
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Contact me through email.
+  Please contact through email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -201,11 +201,11 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -230,6 +230,7 @@ kramdown:
 include: #["_pages"]
   - _pages/about.md
   - _pages/publications.md
+  - _pages/cv.md
 exclude:
   - ["_pages"]
   - bin/
@@ -316,8 +317,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cooray]
+  first_name: [Suchetha]
 
   style: apa
   locale: en
