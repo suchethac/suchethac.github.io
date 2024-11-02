@@ -5,15 +5,15 @@ permalink: /
 subtitle: Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
 
 profile:
-  align: right
+  align: left
   image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Physics and Astrophysics Building</p>
-    <p>452 Lomita Hall, Stanford</p>
+    <p>452 Lomita Mall, Stanford</p>
     <p>California, USA 94305</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -26,12 +26,12 @@ I earned my doctorate at Nagoya University, where I investigated the potential o
 <!-- I invite you to explore my website and learn more about my research, publications, and ongoing projects.  -->
 <!-- Some parts are still under construction but thank you for visiting! -->
 
-<!-- ## Recent Updates
+### Recent Updates
 - **2024/5/01** Moved to Stanford University as a KIPAC Fellow.
 
 - **2024/4/01** Moved to Nagoya University as a postdoctoral researcher.
 
 - **2023/4/01** Moved to National Astronomical Observatory of Japan as a Japan Society for Promotion of Science (JSPS) Postdoctoral Fellow.
 
-- **2023/3/27** Obtained the Doctor of Science from Nagoya University, Japan! -->
+- **2023/3/27** Obtained the Doctor of Science from Nagoya University, Japan!
 
