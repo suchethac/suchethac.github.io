@@ -2,24 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Understanding the Universe with Machines
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Physics and Astrophysics Building</p>
+    <p>452 Lomita Hall</p>
+    <p>Stanford, CA 94305</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**I am an astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University.**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study the physics of galaxies in a data-driven way. My research focuses on understanding the complex physics that govern galaxy formation and evolution across a wide range of physical scales. More specifically, I use state-of-the-art simulations and machine learning techniques to forward-model observable properties of galaxies. This allows me to explore a variety of astrophysical processes in a data-driven way, from the formation of the youngest galaxies to the growth of massive dark matter halos that surround galaxies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my doctorate at Nagoya University, where I investigated the potential of unsupervised machine learning techniques for understanding galaxy evolution. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
+
+<!-- I invite you to explore my website and learn more about my research, publications, and ongoing projects.  -->
+<!-- Some parts are still under construction but thank you for visiting! -->
+
+## Recent Updates
+- **2024/5/01** Moved to Stanford University as a KIPAC Fellow.
+
+- **2024/4/01** Moved to Nagoya University as a postdoctoral researcher.
+
+- **2023/4/01** Moved to National Astronomical Observatory of Japan as a Japan Society for Promotion of Science (JSPS) Postdoctoral Fellow.
+
+- **2023/3/27** Obtained the Doctor of Science from Nagoya University, Japan!
+
