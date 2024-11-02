@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
+subtitle: **Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University**
 
 profile:
-  align: left
+  align: right
   image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
