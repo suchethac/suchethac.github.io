@@ -15,7 +15,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-<!-- pagination:
+pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
@@ -24,6 +24,6 @@ nav_order: 1
   sort_reverse: true
   trail:
     before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page -->
+    after: 3 # The number of links after the current page
 ---
 
