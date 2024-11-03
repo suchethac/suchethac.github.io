@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-
+    Astrophysics and Cosmology
 profile:
   align: right
   image: profile_picture.jpg
