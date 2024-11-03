@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
+subtitle: >
 
 profile:
   align: right
@@ -18,6 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+#### Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
 
 I study the complex physics that govern galaxy formation and evolution in a data-driven way. 
 More specifically, I use state-of-the-art simulations and machine learning techniques to forward-model observable properties of galaxies. 
