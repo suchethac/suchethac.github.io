@@ -1,7 +1,4 @@
-Made with the use of [ai-folio](https://alshedivat.github.io/al-folio/) 
-
-**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
-
+Made with the use of [ai-folio](https://alshedivat.github.io/al-folio/) based on [Jekyll](https://jekyllrb.com/) theme for academics.
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
 
