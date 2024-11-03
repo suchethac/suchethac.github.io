@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: 
 **ORCiD** is 0000-0002-9217-1696. 
 **NASA/ADS** list can be accessed [here.](

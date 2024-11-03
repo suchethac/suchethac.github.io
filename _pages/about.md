@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: **Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University**
 
@@ -23,15 +23,11 @@ I study the physics of galaxies in a data-driven way. My research focuses on und
 
 I earned my doctorate at Nagoya University, where I investigated the potential of unsupervised machine learning techniques for understanding galaxy evolution. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
 
-<!-- I invite you to explore my website and learn more about my research, publications, and ongoing projects.  -->
-<!-- Some parts are still under construction but thank you for visiting! -->
+My CV is <a href = "./Cooray_CV.pdf">here</a>. 
 
 ### Recent Updates
 - **2024/5/01** Moved to Stanford University as a KIPAC Fellow.
-
 - **2024/4/01** Moved to Nagoya University as a postdoctoral researcher.
-
 - **2023/4/01** Moved to National Astronomical Observatory of Japan as a Japan Society for Promotion of Science (JSPS) Postdoctoral Fellow.
-
 - **2023/3/27** Obtained the Doctor of Science from Nagoya University, Japan!
 
