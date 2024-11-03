@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: **Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University**
+subtitle: Astrophysicist at the Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
 
 profile:
   align: right
