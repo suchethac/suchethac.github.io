@@ -353,11 +353,11 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
-    # abstract,
+    abstract,
     additional_info,
     altmetric,
     annotation,
-    # arxiv,
+    arxiv,
     award,
     award_name,
     bibtex_show,
@@ -381,7 +381,7 @@ max_author_limit: 10 # leave blank to always show all authors
 more_authors_animation_delay: 1 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: false
+enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
