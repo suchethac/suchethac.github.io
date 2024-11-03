@@ -25,7 +25,7 @@ This allows me to explore a variety of astrophysical processes in a data-driven 
 
 I earned my doctorate at Nagoya University, where I investigated the potential of unsupervised machine learning techniques for understanding galaxy evolution. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
 
-My CV is <a href = "./Cooray_CV.pdf">here</a>. 
+My CV is <a href = "/_pages/Cooray_CV.pdf">here</a>. 
 
 
 
