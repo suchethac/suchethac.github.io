@@ -9,6 +9,31 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
+<style>
+.pub-buttons {
+    margin: 5px 0;
+}
+
+.pub-button {
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 0 3px;
+    font-size: 0.8em;
+    border: 1px solid var(--global-theme-color);
+    border-radius: 4px;
+    color: var(--global-theme-color);
+    background-color: transparent;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.pub-button:hover {
+    color: white;
+    background-color: var(--global-theme-color);
+    text-decoration: none;
+}
+</style>
+
 <!-- Bibsearch Feature -->
 
 <!-- {% include bib_search.liquid %} -->
