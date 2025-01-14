@@ -16,20 +16,20 @@ nav_order: 3
 
 .pub-button {
     display: inline-block;
-    padding: 2px 8px;
-    margin: 0 3px;
-    font-size: 0.8em;
-    border: 1px solid var(--global-theme-color);
-    border-radius: 4px;
-    color: var(--global-theme-color);
+    padding: 1px 6px;
+    margin: 0 2px;
+    font-size: 0.75em;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    color: #000000;
     background-color: white;
     text-decoration: none;
     transition: all 0.2s ease;
 }
 
 .pub-button:hover {
-    color: var(--global-hover-color, var(--global-theme-color));
-    border-color: var(--global-hover-color, var(--global-theme-color));
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
     background-color: white;
     text-decoration: none;
 }
