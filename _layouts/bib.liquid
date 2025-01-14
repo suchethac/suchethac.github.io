@@ -76,7 +76,19 @@
       {%- if entry.abstract %}
       <a class="pub-button" onclick="toggleAbstract('{{ entry.key }}_abstract')">ABS</a>
       {% endif %}
+
+      {%- if entry.ads %}
+      <a class="pub-button" href="{{ entry.ads }}" target="_blank">ADS</a>
+      {% endif %}
       
+      {%- if entry.arxiv %}
+      <a class="pub-button" href="https://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>
+      {% endif %}
+      
+      {%- if entry.arxiv %}
+      <a class="pub-button" href="https://arxiv.org/pdf/{{ entry.arxiv }}" target="_blank">arXiv PDF</a>
+      {% endif %}
+
       {%- if entry.doi %}
       <a class="pub-button" href="https://doi.org/{{ entry.doi }}" target="_blank">DOI</a>
       {% endif %}
