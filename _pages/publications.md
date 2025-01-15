@@ -15,32 +15,23 @@ nav_order: 3
   margin-bottom: 0.5rem;
 }
 
-.links .btn,
-.links .btn.btn-sm.z-depth-0 {
-  display: inline-block !important;
-  margin: 0 2px !important;
-  font-size: 0.8rem !important;
-  border: 1px solid #000000 !important;
-  border-radius: 3px !important;
-  padding: 1px 6px !important;
-  background-color: white !important;
-  color: #000000 !important;
-  text-decoration: none !important;
-  transition: all 0.2s ease !important;
+.links .btn {
+  display: inline-block;
+  margin: 0 2px;
+  font-size: 0.8rem;
+  border: 1px solid #000000;
+  border-radius: 3px;
+  padding: 1px 6px;
+  background-color: white;
+  color: #000000;
+  text-decoration: none;
+  transition: all 0.2s ease;
 }
 
-.links .btn:hover,
-.links .btn.btn-sm.z-depth-0:hover {
-  color: var(--global-theme-color) !important;
-  border-color: var(--global-theme-color) !important;
-  text-decoration: none !important;
-  background-color: white !important;
-}
-
-.badge {
-  border-radius: 3px !important;
-  padding: 1px 6px !important;
-  margin-bottom: 0.5rem !important;
+.links .btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  text-decoration: none;
 }
 </style>
 
