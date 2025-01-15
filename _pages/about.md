@@ -23,7 +23,7 @@ focuses on the physics that govern galaxy formation and evolution. I use numeric
 insights into everything from the formation of the youngest galaxies to the growth
 of massive galaxies and their host dark matter halos. -->
 
-I study the physics of galaxy formation and evolution by statistically matching simulations with observations. Using numerical simulation and machine learning techniques, I model how galaxy populations appear in observations, exploring a wide range of galaxy formation scenarios. This approach reveals insights into everything from the birth of young galaxies to the growth of massive galaxies and their dark matter halos.
+I study the physics of galaxy formation and evolution by making simulations statistically match with observations. Using numerical simulation and machine learning techniques, I model how galaxy populations appear in observations, exploring a wide range of galaxy formation scenarios. This approach reveals insights into everything from the birth of young galaxies to the growth of massive galaxies and their dark matter halos.
 
 I earned my doctorate at [Nagoya University](https://en.nagoya-u.ac.jp), where I investigated how unsupervised machine learning techniques can deepen our understanding of galaxy evolution. Before this, my research focused on solving inverse problems in astrophysics, particularly within the context of imaging surveys and Faraday tomography.
 
