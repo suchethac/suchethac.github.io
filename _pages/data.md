@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: Data
+permalink: /data/
 description: 
 nav: true
 nav_order: 4
 ---
 
-Useful codes and data products will be provided here. 
+Useful data products will be provided here. 
 
 <br>
 <hr style="height:1px; background-color:#000000;">
