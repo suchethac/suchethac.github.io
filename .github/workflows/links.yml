@@ -18,7 +18,16 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          args: --verbose --no-progress --exclude-mail '**/*.md' '**/*.html'
+          args: >-
+            --verbose
+            --no-progress
+            --exclude-mail
+            --exclude "\\{\\{.+\\}\\}"
+            --exclude "/assets/**/*"
+            --exclude "https://stackoverflow.com/*"
+            --exclude "https://kipac.stanford.edu/"
+            '**/*.md'
+            '**/*.html'
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
