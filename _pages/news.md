@@ -10,11 +10,11 @@ nav_order: 2
 <!-- {% include news.liquid %} -->
 <!-- ### Recent Updates -->
 
-- **2024/05/11** New paper on explainable AI models for exploring the galaxy-halo connection. [arxiv:2505.06815](https://arxiv.org/abs/2505.06815)
+- **2025/05/11** New paper on explainable AI models for exploring the galaxy-halo connection. [arxiv:2505.06815](https://arxiv.org/abs/2505.06815)
 
-- **2024/02/22** A comprehensive repository of SSP spectral templates for differentiable stellar population synthesis. Now available at <a href="/_pages/data.md">Data</a>.
+- **2025/02/22** A comprehensive repository of SSP spectral templates for differentiable stellar population synthesis. Now available at the <a href="/data.md">Data</a> page!
 
-- **2024/01/18** New paper on an algorithm for density-based clustering of galaxies. [arxiv:2405.09855](https://arxiv.org/abs/2405.09855)
+- **2025/01/18** New paper on an algorithm for density-based clustering of galaxies. [arxiv:2405.09855](https://arxiv.org/abs/2405.09855)
 
 - **2024/11/01** New website!
 - **2024/05/01** Moved to Stanford University as a KIPAC Fellow.
