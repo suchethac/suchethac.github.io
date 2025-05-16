@@ -21,11 +21,10 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --exclude-mail
-            --exclude "\\{\\{.+\\}\\}"
-            --exclude "/assets/**/*"
-            --exclude "https://stackoverflow.com/*"
-            --exclude "https://kipac.stanford.edu/"
+            --exclude '{{.*}}'
+            --exclude '/assets/**/*'
+            --exclude 'https://stackoverflow.com/*'
+            --exclude 'https://kipac.stanford.edu/'
             '**/*.md'
             '**/*.html'
           fail: true

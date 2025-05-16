@@ -12,7 +12,7 @@ nav_order: 2
 
 - **2025/05/11** New paper on explainable AI models for exploring the galaxy-halo connection. [arxiv:2505.06815](https://arxiv.org/abs/2505.06815)
 
-- **2025/02/22** A comprehensive repository of SSP spectral templates for differentiable stellar population synthesis. Now available at the <a href="/data.md">Data</a> page!
+- **2025/02/22** A comprehensive repository of SSP spectral templates for differentiable stellar population synthesis. Now available at the <a href="/data/">Data</a> page!
 
 - **2025/01/18** New paper on an algorithm for density-based clustering of galaxies. [arxiv:2405.09855](https://arxiv.org/abs/2405.09855)
 
