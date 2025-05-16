@@ -1,0 +1,13 @@
+# Exclude patterns
+exclude = [
+    '\\{\\{.*\\}\\}',
+    '/assets/**/*',
+    'https://stackoverflow.com/*',
+    'https://kipac.stanford.edu/'
+]
+
+# Max retries for requests
+max_retries = 3
+
+# Timeout in seconds
+timeout = 20 
