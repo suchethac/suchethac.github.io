@@ -18,7 +18,7 @@ nav_order: 2
 
 - **2024/11/01** New website!
 
-- **2024/05/01** Moved to Stanford University as a KIPAC Fellow.
+- **2024/05/01** Moved to Stanford University as a KIPAC Postdoctoral Fellow.
 
 - **2024/04/01** Moved to Nagoya University as a postdoctoral researcher.
 
