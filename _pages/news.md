@@ -9,9 +9,10 @@ nav_order: 2
 
 <!-- {% include news.liquid %} -->
 <!-- ### Recent Updates -->
+
 - **2025/12/15** New paper on the impact of feedback on galaxy star formation histories published in ApJ. [arxiv:2508.21152](https://arxiv.org/abs/2508.21152)
 
-- **2025/10/28** New arXiv preprint: "*ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?*" [arxiv:2510.24591](https://arxiv.org/abs/2510.24591)
+- **2025/10/28** New arXiv preprint: "_ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?_" [arxiv:2510.24591](https://arxiv.org/abs/2510.24591)
 
 - **2025/05/11** New paper on explainable AI models for exploring the galaxy-halo connection. [arxiv:2505.06815](https://arxiv.org/abs/2505.06815)
 

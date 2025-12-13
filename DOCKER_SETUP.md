@@ -3,11 +3,13 @@
 ## Step 1: Install Docker Desktop for Mac
 
 1. **Download Docker Desktop:**
+
    - Go to: https://docs.docker.com/get-docker/
    - Or directly: https://www.docker.com/products/docker-desktop/
    - Download Docker Desktop for Mac (Apple Silicon or Intel, depending on your Mac)
 
 2. **Install:**
+
    - Open the downloaded `.dmg` file
    - Drag Docker to Applications folder
    - Open Docker from Applications
@@ -62,7 +64,3 @@ If you want to save bandwidth, use the slim Docker image:
 ```bash
 docker compose -f docker-compose-slim.yml up
 ```
-
-
-
-
