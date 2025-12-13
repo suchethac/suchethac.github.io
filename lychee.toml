@@ -1,9 +1,9 @@
 # Exclude patterns
+# Note: Liquid template variables ({{*}}) are handled in .lycheeignore
 exclude = [
-    '\\{\\{.*\\}\\}',
-    '/assets/**/*',
-    'https://stackoverflow.com/*',
-    'https://kipac.stanford.edu/'
+    "/assets/**/*",
+    "https://stackoverflow.com/*",
+    "https://kipac.stanford.edu/"
 ]
 
 # Max retries for requests
