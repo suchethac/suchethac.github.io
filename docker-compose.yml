@@ -19,3 +19,4 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    command: sh -c "bundle install && /tmp/entry_point.sh"
