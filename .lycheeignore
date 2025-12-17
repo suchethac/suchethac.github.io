@@ -1,5 +1,5 @@
 # Jekyll template variables
-{{*}}
+\{\{.*\}\}
 # Local files that will be generated
 /assets/**/*
 # Stack Overflow (requires authentication)
