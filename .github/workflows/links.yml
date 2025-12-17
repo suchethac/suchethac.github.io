@@ -21,7 +21,7 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --exclude '{{.*}}'
+            --exclude '\{\{.*\}\}'
             --exclude '/assets/**/*'
             --exclude 'https://stackoverflow.com/*'
             --exclude 'https://kipac.stanford.edu/'
