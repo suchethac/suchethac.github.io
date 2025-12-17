@@ -27,7 +27,7 @@ Previously, Suchetha was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/eng
 
 <!-- Previously, I was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-pd/) at the [National Astronomical Observatory of Japan](https://sci.nao.ac.jp/main/en/). I earned my doctorate at [Nagoya University](https://en.nagoya-u.ac.jp), where I developed unsupervised machine learning techniques to study galaxy evolution. My master's research focused on solving inverse problems in astrophysics, particularly for imaging surveys and Faraday tomography. -->
 
-The CV is <a href="Cooray_CV_2025.pdf">here</a>.
+The CV is <a href="Cooray_CV_2026.pdf">here</a>.
 
 <!-- I study the Universe by combining simulations with observations.  -->
 <!-- My research
@@ -36,4 +36,3 @@ insights into everything from the formation of the youngest galaxies to the grow
 of massive galaxies and their host dark matter halos. -->
 
 <!-- I study the physics of galaxy formation and cosmology by making cosmological simulations match with observations. My research uses numerical models and machine learning to simulate how galaxy populations appear in observations, which allows me to explore how galaxy populations form and evolve under different physical conditions. This approach reveals statistically rigorous insights into why galaxy populations appear as they are in observations. I am also broadly interested in all AI, machine learning, and statistical methods. -->
-
