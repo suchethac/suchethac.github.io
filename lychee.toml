@@ -1,5 +1,5 @@
 # Exclude patterns
-# Note: Liquid template variables ({{*}}) are handled in .lycheeignore
+# Note: Liquid template variables (\{\{.*\}\}) are handled in .lycheeignore
 exclude = [
     "/assets/**/*",
     "https://stackoverflow.com/*",
