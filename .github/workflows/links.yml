@@ -25,6 +25,7 @@ jobs:
             --exclude '/assets/**/*'
             --exclude 'https://stackoverflow.com/*'
             --exclude 'https://kipac.stanford.edu/'
+            --exclude-path 'node_modules/**'
             '**/*.md'
             '**/*.html'
           fail: true
