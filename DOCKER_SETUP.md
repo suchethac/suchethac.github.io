@@ -64,3 +64,4 @@ If you want to save bandwidth, use the slim Docker image:
 ```bash
 docker compose -f docker-compose-slim.yml up
 ```
+

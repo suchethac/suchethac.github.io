@@ -17,17 +17,19 @@ social: false # includes social icons at the bottom of the page
 
 **Astrophysicist @ [KIPAC, Stanford University](https://kipac.stanford.edu)**
 
-Suchetha Cooray is a KIPAC Postdoctoral Fellow at Stanford University. His research operates at the intersection of observational data, galaxy formation physics, cosmological theory, and artificial intelligence.
+I am a KIPAC Postdoctoral Fellow at Stanford University. My research operates at the intersection of observational data, galaxy formation physics, cosmological theory, and artificial intelligence.
 
-Suchetha is broadly interested in decoding the "cosmic ecosystems" that drive galaxy growth and evolution. His work seeks to reveal the complete lifecycle of galaxies—tracing their origins from density peaks of dark matter, through the complex interaction of their baryonic components, to their eventual cessation of star formation. Galaxy formation presents a profound computational challenge, as physical processes span at least 14 orders of magnitude, from the sub-parsec scales of black hole accretion disks to the vast web of cosmic large-scale structure.
+My primary interest is in decoding the "cosmic ecosystems" that drive galaxy formation and evolution across cosmic time. My work seeks to reveal the complete lifecycle of galaxies—tracing their origins from density peaks of dark matter, through the complex interaction of their baryonic components, to their eventual cessation of star formation.
 
-To navigate this complexity, Suchetha employs numerical simulations and machine learning to build statistically robust models of the Universe, connecting the first galaxies revealed by JWST to the mature populations of the present day. As the field enters a transformative decade for precision cosmology, his research focuses on maximizing the scientific insights from upcoming major surveys—including PFS, Euclid, Rubin LSST, SPHEREx, and Roman.
+A complete model of galaxy formation requires solving physical scales that span at least 14 orders of magnitude—from black hole accretion disks to the cosmic large-scale structures—making it one of the hardest problems in astrophysics. I work at this interface, combining numerical simulations and machine learning to build statistical models that link the earliest galaxies uncovered by JWST to the populations we observe at lower redshifts. With transformative surveys like PFS, Euclid, Rubin LSST, SPHEREx, and Roman coming online, there has never been a better time to develop our theoretical models and extract meaningful constraints on galaxy formation physics.
 
-Previously, Suchetha was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-pd/) at the [National Astronomical Observatory of Japan](https://sci.nao.ac.jp/main/en/) and earned his doctorate at [Nagoya University](https://en.nagoya-u.ac.jp).
+Previously, I was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-pd/) at the [National Astronomical Observatory of Japan](https://sci.nao.ac.jp/main/en/) and earned my doctorate at [Nagoya University](https://en.nagoya-u.ac.jp).
 
 <!-- Previously, I was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-pd/) at the [National Astronomical Observatory of Japan](https://sci.nao.ac.jp/main/en/). I earned my doctorate at [Nagoya University](https://en.nagoya-u.ac.jp), where I developed unsupervised machine learning techniques to study galaxy evolution. My master's research focused on solving inverse problems in astrophysics, particularly for imaging surveys and Faraday tomography. -->
 
-The CV is <a href="Cooray_CV_2026.pdf">here</a>.
+I will be starting as a Specially Appointed Assistant Professor (Research) at the [Astronomical Institute](https://www.astr.tohoku.ac.jp), [Tohoku University](https://www.tohoku.ac.jp/en/) from September 2026.
+
+My CV is <a href="Cooray_CV_2026.pdf">here</a>.
 
 <!-- I study the Universe by combining simulations with observations.  -->
 <!-- My research
