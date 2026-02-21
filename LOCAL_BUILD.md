@@ -125,3 +125,4 @@ This optimizes CSS files by removing unused classes.
 - Full installation guide: See `INSTALL.md`
 - Jekyll documentation: https://jekyllrb.com/docs/
 - Theme documentation: https://alshedivat.github.io/al-folio/
+

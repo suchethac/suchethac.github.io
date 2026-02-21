@@ -31,7 +31,3 @@ echo "   Press Ctrl+C to stop the server"
 echo ""
 
 docker compose up
-
-
-
-

@@ -77,3 +77,4 @@ You have two options to build and preview your site locally:
 ❌ Bundler needs setup (run `gem install bundler:2.5.18`)
 
 **Recommendation:** Install Docker for the easiest experience, or set up Bundler if you prefer the local method.
+
