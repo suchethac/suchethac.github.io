@@ -27,7 +27,7 @@ Previously, I was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-
 
 <!-- Previously, I was a [JSPS Postdoctoral Fellow](https://www.jsps.go.jp/english/e-pd/) at the [National Astronomical Observatory of Japan](https://sci.nao.ac.jp/main/en/). I earned my doctorate at [Nagoya University](https://en.nagoya-u.ac.jp), where I developed unsupervised machine learning techniques to study galaxy evolution. My master's research focused on solving inverse problems in astrophysics, particularly for imaging surveys and Faraday tomography. -->
 
-I will be starting as a Specially Appointed Assistant Professor (Research) at the [Astronomical Institute](https://www.astr.tohoku.ac.jp), [Tohoku University](https://www.tohoku.ac.jp/en/) from September 2026.
+I will be starting as a Specially Appointed Assistant Professor (Research) at the [Astronomical Institute](https://www.astr.tohoku.ac.jp), [Tohoku University](https://www.tohoku.ac.jp/en/) from October 2026.
 
 My CV is <a href="Cooray_CV_2026.pdf">here</a>.
 
