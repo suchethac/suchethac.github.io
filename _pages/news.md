@@ -9,6 +9,7 @@ nav_order: 2
 
 <!-- {% include news.liquid %} -->
 <!-- ### Recent Updates -->
+- **2026/10/01** Moved to the Astronomical Institute, Tohoku University, Japan as a Specially Appointed Assistant Professor (Research).
 
 - **2025/12/15** New paper on the impact of feedback on galaxy star formation histories published in ApJ. [arxiv:2508.21152](https://arxiv.org/abs/2508.21152)
 
